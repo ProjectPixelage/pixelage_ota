@@ -1,13 +1,13 @@
 {
 	"response": [
       {
-		"datetime": 1731459573,
-		"filename": "ProjectPixelage-v2.2-garnet-15.0-OFFICIAL-20241113-0105.zip",
-		"id": "691169a2e2d1a34c3d098e17cd68b7b9163a882c18ac1b5295a66230e0d17e5f",
+		"datetime": 1734420480,
+		"filename": "ProjectPixelage-v2.3-garnet-15.0-OFFICIAL-20241217-0729.zip",
+		"id": "ba37a7cf8f8b6f66c8cca7cf15aff1fad30ec48155044b962018d023bc12fb0e",
 		"romtype": "OFFICIAL",
-		"size": 2348046127,
-		"url": "https://sourceforge.net/projects/projectpixelage/files/garnet/ProjectPixelage-v2.2-garnet-15.0-OFFICIAL-20241113-0105.zip/download",
-		"version": "2.2"
+		"size": 2318657109,
+		"url": "https://sourceforge.net/projects/projectpixelage/files/garnet/ProjectPixelage-v2.3-garnet-15.0-OFFICIAL-20241217-0729.zip/download",
+		"version": "2.3"
 	  }
 	]
 }
