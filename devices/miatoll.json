@@ -1,13 +1,13 @@
 {
 	"response": [
       {
-		"datetime": 1735827132,
-		"filename": "ProjectPixelage-v2.3-miatoll-15.0-OFFICIAL-20250102-1414.zip",
-		"id": "4ac665caf1960dfe9702675bba280c6bb85a8e2e83f9c2085730061807168f98",
+		"datetime": 1736324234,
+		"filename": "ProjectPixelage-v2.4-miatoll-15.0-OFFICIAL-20250108-0817.zip",
+		"id": "fd20edec0182b73a993f4f75016726bc0ab5e7d893672dfb0074f08f6083b288",
 		"romtype": "OFFICIAL",
-		"size": 2288341060,
-		"url": "https://sourceforge.net/projects/projectpixelage/files/miatoll/ProjectPixelage-v2.3-miatoll-15.0-OFFICIAL-20250102-1414.zip/download",
-		"version": "2.3"
+		"size": 2281555282,
+		"url": "https://sourceforge.net/projects/projectpixelage/files/miatoll/ProjectPixelage-v2.4-miatoll-15.0-OFFICIAL-20250108-0817.zip/download",
+		"version": "2.4"
 	  }
 	]
 }
