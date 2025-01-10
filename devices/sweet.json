@@ -1,13 +1,13 @@
 {
         "response": [
       {
-                "datetime": 1735119565,
-                "filename": "ProjectPixelage-v2.3-sweet-15.0-OFFICIAL-20241225-0940.zip",
-                "id": "073aa40cd230133bdec8473caa05da132078a2961cdfa9d2015258f93b8ae745",
+                "datetime": 1736539328,
+                "filename": "ProjectPixelage-v2.4-sweet-15.0-OFFICIAL-20250110-2002.zip",
+                "id": "893b80a66014853b64c9a6e4602447c3198942ab1e5dc065cb126319cfe06b1d",
                 "romtype": "OFFICIAL",
-                "size": 2332945311,
-                "url": "https://sourceforge.net/projects/projectpixelage/files/sweet/ProjectPixelage-v2.3-sweet-15.0-OFFICIAL-20241225-0940.zip/download",
-                "version": "2.3"
+                "size": 2416273508,
+                "url": "https://sourceforge.net/projects/projectpixelage/files/sweet/ProjectPixelage-v2.4-sweet-15.0-OFFICIAL-20250110-2002.zip/download",
+                "version": "2.4"
           }
         ]
 }
