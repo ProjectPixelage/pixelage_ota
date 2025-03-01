@@ -1,13 +1,13 @@
 {
         "response": [
       {
-                "datetime": 1736591151,
-                "filename": "ProjectPixelage-v2.4-marble-15.0-OFFICIAL-20250111-1027.zip",
-                "id": "0299a8b43e29645eea571b41a21db001fa47298fa07d66414d16c109210858fe",
+                "datetime": 1740825181,
+                "filename": "ProjectPixelage-v2.5-marble-15.0-OFFICIAL-20250301-1034.zip",
+                "id": "f0ae11f3f315e0b20ca36fbd63babfd7c8c50af57b6053004da1e47b7a61e8c1",
                 "romtype": "OFFICIAL",
-                "size": 2578325232,
-                "url": "https://sourceforge.net/projects/projectpixelage/files/marble/2.4/ProjectPixelage-v2.4-marble-15.0-OFFICIAL-20250111-1027.zip/download",
-                "version": "2.4"
+                "size": 2605239083,
+                "url": "https://sourceforge.net/projects/projectpixelage/files/marble/2.5/ProjectPixelage-v2.5-marble-15.0-OFFICIAL-20250301-1034.zip/download",
+                "version": "2.5"
           }
         ]
 }
