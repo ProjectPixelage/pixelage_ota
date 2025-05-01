@@ -1,13 +1,13 @@
 {
 	"response": [
       {
-		"datetime": 1739714509,
-		"filename": "ProjectPixelage-v2.5-peridot-15.0-OFFICIAL-20250216-1402.zip",
-		"id": "5f3c75c303646ae67c1dbe5769c78b07b8ce4c36936ecca1001a1306256882f2",
+		"datetime": 1746093913,
+		"filename": "ProjectPixelage-v2.7-peridot-15.0-OFFICIAL-20250501-1006.zip",
+		"id": "881cc439b88aa6decfba63ba19b4b5520bbdaabb05164e67afff0d418896a817",
 		"romtype": "OFFICIAL",
-		"size": 3019222552,
-		"url": "https://sourceforge.net/projects/projectpixelage/files/peridot/ProjectPixelage-v2.5-peridot-15.0-OFFICIAL-20250216-1402.zip/download",
-		"version": "2.5"
+		"size": 3146184247,
+		"url": "https://sourceforge.net/projects/projectpixelage/files/peridot/ProjectPixelage-v2.7-peridot-15.0-OFFICIAL-20250501-1006.zip/download",
+		"version": "2.7"
 	  }
 	]
 }
